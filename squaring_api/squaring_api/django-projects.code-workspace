@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "django-projects",
+			"path": "../../.."
+		},
+		{
+			"name": "simple-frontend",
+			"path": "../../../../simple-frontend"
+		}
+	],
+	"settings": {}
+}
